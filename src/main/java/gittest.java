@@ -4,5 +4,6 @@ public class gittest {
         System.out.println("hellogit");
         System.out.println("hellogit4");
         System.out.println("hellogit4");
+        System.out.println("pull hellogit4");
     }
 }
